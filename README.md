@@ -6,6 +6,12 @@ This is not just practice — this is something you can proudly include in your 
 
 ---
 
+## 🎥 Presentation Video Link
+
+**Link:** https://www.loom.com/share/023f1ab7dd1a43adbdad950718a3c3cf?sid=a05c9e89-4250-462a-ac8e-8335fd7b041c
+
+---
+
 ## 📌 Project Overview
 
 **Project Name:** Resume Project  
